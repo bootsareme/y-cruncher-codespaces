@@ -21,4 +21,4 @@ chmod +x y-cruncher
 chmod -R +x Binaries
 ```
 
-Now, you should be able to run y-cruncher normally as if you have downloaded fresh off the internet.
+Now, you should be able to run y-cruncher normally as if you have downloaded it fresh off the internet.
